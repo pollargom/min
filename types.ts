@@ -15,3 +15,4 @@ export interface ChoreographyConcept {
   keyMovements: string[];
   musicSuggestion: string;
 }
+ 
